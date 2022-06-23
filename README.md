@@ -1,2 +1,4 @@
 # dev_resources
-developer resources &amp; getting started
+
+## Purpose
+A quick directory of developer resources &amp; getting started info, organized by topic
